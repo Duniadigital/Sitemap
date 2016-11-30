@@ -8,9 +8,6 @@
  * ---------------------------------------------------
  */
 
-
-
-
 var toc_config = {
 	url: 'http://www.duniadigital.net',
 	containerId: 'table-of-content',
